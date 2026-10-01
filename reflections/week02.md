@@ -1,12 +1,12 @@
-Task 1
+TASK 1
 
 Brief A
-For the Aegis Flight-Control Software Update the best approach would be the usage of Rational Unified Process (RUP) since the requirments for this project are well 
-understood and the specific risks have been analyzed already from a preliminary engineering analysis. Additionally, the RUP model requires strict and extensive 
+For the Aegis Flight-Control Software Update the best approach would be the usage of the Waterfall model since the requirements for this project are well 
+understood and the specific risks have been analyzed already from a preliminary engineering analysis. Additionally, the Waterfall model requires strict and extensive 
 structure and documentation and it aligns perfectly with the projects requirments of traceability for testing. Finally, since the project does not require a prototype 
-of any shorts and the timeframe for is development is generous since there is no competitive pressure to release early the DUP model again fits in perfectly. 
+of any shorts and the timeframe for is development is generous since there is no competitive pressure to release early the Waterfall model again fits in perfectly. 
 
-A risk that could arise using this model could be bureaucratic bottlenecks due to the extensive documentaion and rigid schedule that could take away time from actual coding.
+A risk that could arise using this model could be the discovery of errors at later stages of the development.
 
 
 Brief B 
@@ -24,3 +24,6 @@ it would be faster to break apart the project and release it piece by piece. The
 
 A risk using this method would be that the code could end up being in a fragmented and messy state by the end of the development having no real structure. 
 
+TASK 3
+
+An Explainable Hybrid NLP Framework for Greenwashing Detection Using a Custom Transformer Architecture
